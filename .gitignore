@@ -1,0 +1,7 @@
+*.csproj
+*.exe
+*.txt
+
+bin/
+obj/
+Properties/
