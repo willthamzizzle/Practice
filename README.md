@@ -1,4 +1,4 @@
 Practice
 ========
 
-C# projects
+C# projects for HackerRank.com and others
